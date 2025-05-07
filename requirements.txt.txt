@@ -1,0 +1,7 @@
+streamlit 
+selenium 
+beautifulsoup4 
+aiohttp 
+pandas 
+pillow 
+requests
